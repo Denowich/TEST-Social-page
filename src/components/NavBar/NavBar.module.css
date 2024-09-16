@@ -1,0 +1,20 @@
+.navBar {
+      background-color: burlywood;
+      grid-area: navbar;
+      padding: 20px;
+}
+
+.navBarItem {
+      padding-bottom: 3px;
+      font-size: 18px;
+}
+
+.navBarItem a {
+      text-decoration: none;
+      color: white;
+}
+
+.navBarItem a:focus {
+      text-decoration: underline;
+      color: chartreuse;
+}

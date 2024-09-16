@@ -1,0 +1,6 @@
+.footer {
+      background-color: darkcyan;
+      grid-area: footer;
+      text-align: center;
+      height: 50px;
+}
