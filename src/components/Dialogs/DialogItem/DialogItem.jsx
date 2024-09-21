@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import style from './DialogItem.module.css';
+import style from '../Dialogs.module.css';
 
 export let DialogItem = (props) => {
       let path = './dialog/' + props.id;
